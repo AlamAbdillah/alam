@@ -1,5 +1,5 @@
 # alam
-alam module for create web themplate
+alam module nodejs
 
 ## installation
 install modules globally
